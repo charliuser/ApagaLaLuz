@@ -243,3 +243,6 @@ input {
   height: 100%;
   width: 100%;
 }
+.texto {
+  margin-left: -40%;
+}

@@ -246,3 +246,9 @@ input {
 .texto {
   margin-left: -40%;
 }
+.texto h1 {
+  color: #fff;
+}
+.texto p {
+  color: #fff;
+}
